@@ -1,5 +1,5 @@
 {
-    "name": "Ban/Kick all users except admins",
+    "name": "Banham",
     "description": "The title is explicit",
     "keywords": [
         "telegram",
@@ -8,20 +8,20 @@
         "managment",
         "bot"
     ],
-    "website": "https://t.me/EDM115bots",
-    "repository": "https://github.com/EDM115/ban-all-except-admins",
-    "success_url": "https://t.me/EDM115bots",
+    "website": "https://t.me/Ban_hambot",
+    "repository": "https://github.com/saahil03/Tg-ban-bot",
+    "success_url": "https://t.me/Ban_hambot",
     "env": {
         "API_ID": {
-            "description": "Your API_ID from my.telegram.org",
+            "description": "29413753",
             "required": true
         },
         "API_HASH": {
-            "description": "Your API_HASH from my.telegram.org",
+            "description": "d87fa535149531bcb21f844c01ac5c35",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Your Bot Token From @BotFather",
+            "description": "6480431977:AAHJqlfMpQanN7lkmnsINJ_7QljOZDN843I",
             "required": true
         }
     },
