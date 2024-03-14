@@ -2,7 +2,6 @@
 
 ## Ban/Kick all members of a Telegram chat excepting admins [bot]
   
-![GET. OUT.](https://telegra.ph/file/10c3fdbd101ce1bf6db4f.jpg)
 </div>
   
 ### Preconditions :  
@@ -16,10 +15,6 @@
 + Let the bot do its job
 + If some errors happened, check the errors text file to manually ban/kick those users ID's
   
-### Help :
-You can contact the support here : [**@EDM115_chat**](https://t.me/EDM115_chat)  
-Subscribe for more : [**@EDM115bots**](https://t.me/EDM115bots)  
-Project made from a request of [**@AmirulAndalib**](https://github.com/AmirulAndalib)
 
 ## Config vars 📖
 + `API_ID`
